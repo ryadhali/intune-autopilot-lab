@@ -1,0 +1,9 @@
+Legal & Attribution
+
+This lab environment and all associated screenshots, configurations, and documentation were created independently for educational and portfolio purposes.
+
+All content reflects a personal test lab setup and does not contain or replicate any proprietary, confidential, or internal materials from any employer or organisation.
+
+No serial numbers, device identifiers, tenant IDs, or any other sensitive information are included in this repository.
+
+Any resemblance to corporate environments is coincidental and based solely on publicly available Microsoft documentation and best practices.
